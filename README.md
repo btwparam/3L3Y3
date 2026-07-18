@@ -13,13 +13,12 @@ __Important__: _The tool may hault in the middle of processing, while scanning l
   - Support to output in a file ( greppable format )
   - Automatic HostName Resolution
   
-I tried to customize this scanner as much as possible, and made it very detailed as well. But one issue you will notice is... It is kinda slow, honestly it might take you about 10 minutes to scan the top200 ports. I countered that with threading, which reduced it by 3 more minutes. Honestly, I am trying to reduce it even further, will update the tool as soon as I get the solution. If you could help me, improve the tool feel free to mail your ideas/code snippet [here](mailto:theprojax@protonmail.com). 
+I tried to customize this scanner as much as possible, and made it very detailed as well. But one issue you will notice is... It is kinda slow, honestly it might take you about 10 minutes to scan the top200 ports. I countered that with threading, which reduced it by 3 more minutes. Honestly, I am trying to reduce it even further, will update the tool as soon as I get the solution. If you could help me improve the tool feel free to hunt me down my socials [here](https://param.sh/). 
 
 ## Installation
 
-Installing it is pretty simple... Just copy the steps down into your terminal in order to install this script.
+Installing it is pretty simple... Just clone the repository and copy the steps down into your terminal in order to install this script.
 
-- ```git clone https://github.com/akaparam/3L3Y3.git```
 - ```cd 3L3Y3/```
 - ```pip install -r requirements.txt```
 - ```sudo cp eli.py /usr/bin/eli```
