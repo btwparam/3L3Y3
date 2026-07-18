@@ -1,11 +1,7 @@
 #!/usr/bin/python
 
 ### Project: 3L3Y3 Scanner
-### Author: akaParam
-
-### Find me on following media:
-###### X: @akaparam
-###### Medium: @akaparam
+### Author: param
 
 from socket import *
 import optparse
